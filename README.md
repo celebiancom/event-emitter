@@ -1,6 +1,7 @@
-# event-emitter
+# Event Emitter (event-emitter)
 
-A simple Event Emitter for JavaScript with channels and subscribe/unsubscribe functionality. 
+A simple Event Emitter for JavaScript with channels and subscribe/unsubscribe functionality. You can get this package from [npmjs](https://www.npmjs.com/package/@celebiancom/event-emitter). 
+
 
 # Brought to you by Celebian.com which you can visit at https://celebian.com 
 
