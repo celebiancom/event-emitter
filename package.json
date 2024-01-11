@@ -1,0 +1,24 @@
+{
+  "name": "@celebiancom/event-emitter",
+  "private": false,
+  "version": "1.0.0",
+  "description": "A simple Event Emitter for JavaScript with channels and subscribe/unsubscribe functionality.",
+  "main": "EventEmitter.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celebiancom/event-emitter.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "Celebian.com (https://celebian.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celebiancom/event-emitter/issues"
+  },
+  "homepage": "https://github.com/celebiancom/event-emitter#readme"
+}
